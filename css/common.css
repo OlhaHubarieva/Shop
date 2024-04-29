@@ -8,4 +8,11 @@
 
 :root {
     font-family: "Baloo 2", sans-serif;
+    scroll-behavior: smooth;
+    --text-color: #3c3731;
+}
+
+img {
+    display: block;
+    width: 100%;
 }
